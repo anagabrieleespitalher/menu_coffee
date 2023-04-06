@@ -6,4 +6,4 @@ This is a coffee menu with basic HTML and CSS that I created just to practice, s
 
 #Português
 
-isso é um menu de café com o basico de html e css que criei somente para praticar, estudar e fixar elementos e tags. Se você quiser um projeto parecido ou até mesmo igual, só entre em contato que faremos o melhor para fazer um projeto com a cara do seu produto/comercio.
+Isso é um menu de café com o básico de HTML e CSS que criei somente para praticar, estudar e fixar elementos e tags. Se você quiser um projeto parecido ou até mesmo igual, só entre em contato que faremos o melhor para fazer um projeto com a cara do seu produto/comercio.
